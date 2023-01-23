@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP Test</h1>
-		<p><b>Hurray App is running!!</b></p>
+		<p><b>Context dir in business!!</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information</h2> 
